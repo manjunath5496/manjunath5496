@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<p><strong>Publications:</strong></p>
+
+<ul>
+<li class="AHFaub"><a title="C, C++, Java, Python, PHP, JavaScript and Linux For Beginners" href="https://play.google.com/store/books/details/Manjunath_R_C_C_Java_Python_PHP_JavaScript_and_Lin?id=xnTcDwAAQBAJ&amp;hl=en_US">C, C++, Java, Python, PHP, JavaScript and Linux For Beginners</a></li>
+<li class="AHFaub"><a title="Linux Commands, C, C++, Java and Python Exercises For Beginners" href="https://play.google.com/store/books/details/Manjunath_R_Linux_Commands_C_C_Java_and_Python_Exe?id=FVDZDwAAQBAJ&amp;hl=en_US">Linux Commands, C, C++, Java and Python Exercises For Beginners</a></li>
+<li class="AHFaub"><a title="Understanding the Universe: Quarks, Leptons and the Big Bang" href="https://play.google.com/store/books/details/Manjunath_R_Understanding_the_Universe?id=uyXXDwAAQBAJ&amp;hl=en_US">Understanding the Universe: Quarks, Leptons and the Big Bang</a></li>
+<li class="AHFaub"><a title="A Mathematician's Journey to the Edge of the Universe: What&rsquo;s the Ultimate Question?" href="https://play.google.com/store/books/details/Manjunath_R_A_Mathematician_s_Journey_to_the_Edge?id=RsPRDwAAQBAJ&amp;hl=en_US">A Mathematician's Journey to the Edge of the Universe: What&rsquo;s the Ultimate Question?</a></li>
+<li class="AHFaub"><a title="100 People Who Changed History and the World" href="https://play.google.com/store/books/details/Manjunath_R_100_People_Who_Changed_History_and_the?id=cfsPEAAAQBAJ&amp;hl=en_US">100 People Who Changed History and the World</a></li>
+<li class="AHFaub"><a title="Science Data Booklet" href="https://play.google.com/store/books/details/Manjunath_R_Science_Data_Booklet?id=ZG3wDwAAQBAJ&amp;hl=en_US">Science Data Booklet</a></li>
+<li class="AHFaub"><a title="Homosexual Mathematician Who Rescued the World Still Died In Disgrace: The Brutal Life And Tragic Death Of Alan Turing" href="https://play.google.com/store/books/details/Manjunath_R_Homosexual_Mathematician_Who_Rescued_t?id=O3XTDwAAQBAJ&amp;hl=en_US">Homosexual Mathematician Who Rescued the World Still Died In Disgrace: The Brutal Life And Tragic Death Of Alan Turing</a></li>
+<li class="AHFaub"><a title="GOD" href="https://play.google.com/store/books/details/Manjunath_R_GOD?id=ldzyDwAAQBAJ&amp;hl=en_US">GOD</a></li>
+<li class="AHFaub"><a title="Timelines of Nearly Everything" href="https://play.google.com/store/books/details/Manjunath_R_Timelines_of_Nearly_Everything?id=17I2EAAAQBAJ&amp;hl=en_US">Timelines of Nearly Everything</a></li>
+<li class="AHFaub"><a title="Mathematical Universe" href="https://play.google.com/store/books/details/Manjunath_R_Mathematical_Universe?id=WGk8EAAAQBAJ&amp;hl=en_US">Mathematical Universe</a></li>
+</ul>
+
+
+
+
+
+
+
