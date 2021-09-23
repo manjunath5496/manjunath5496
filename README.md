@@ -37,7 +37,12 @@ Here are some ideas to get you started:
  
 </ul>
 
+<p><strong>Videos:</strong></p>
 
+<ul>
+<li class="AHFaub"><a title="E = mc squared stated clearly" href="https://www.youtube.com/watch?v=ZDgNqb3_ajc">E = mc squared stated clearly</a></li>
+ </ul>
+ 
 
 
 
