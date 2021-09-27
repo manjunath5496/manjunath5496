@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 
 <ul>
 <li class="AHFaub"><a title="E = mc squared stated clearly" href="https://www.youtube.com/watch?v=ZDgNqb3_ajc">E = mc squared stated clearly</a></li>
+ <li class="AHFaub"><a title="Why E = hυ?" href="https://www.youtube.com/watch?v=5FW3RcLtdaI">Why E = hυ?</a></li>
  </ul>
  
 
