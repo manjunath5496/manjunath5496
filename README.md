@@ -48,9 +48,9 @@ Here are some ideas to get you started:
  
 <li class="AHFaub"><a title="Stephen Hawking: A brief history of genius − in pictures" href="https://www.youtube.com/watch?v=KW2IM-m9pNA">Stephen Hawking: A brief history of genius − in pictures</a> [<a title="Why E = h&upsilon;?" href="https://github.com/manjunath5496/manjunath5496/blob/main/5.pdf">PDF</a>]</li>
  
- <li class="AHFaub"><a title="Stephen Hawking: A brief history of genius − in pictures" href="https://www.youtube.com/watch?v=4CmS_LAUCWk">10 Great Biological Discoveries</a> [<a title="10 Great Biological Discoveries" href="https://github.com/manjunath5496/manjunath5496/blob/main/6.pdf">PDF</a>]</li>
+ <li class="AHFaub"><a title="10 Great Biological Discoveries" href="https://www.youtube.com/watch?v=4CmS_LAUCWk">10 Great Biological Discoveries</a> [<a title="10 Great Biological Discoveries" href="https://github.com/manjunath5496/manjunath5496/blob/main/6.pdf">PDF</a>]</li>
  
- 
+ <li class="AHFaub"><a title="13 Pioneering Women In Science History You Should Know" href="https://www.youtube.com/watch?v=Cyw9Lp76iUo">13 Pioneering Women In Science History You Should Know</a> [<a title="13 Pioneering Women In Science History You Should Know" href="https://github.com/manjunath5496/manjunath5496/blob/main/7.pdf">PDF</a>]</li>
  
  </ul>
  
