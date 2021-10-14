@@ -41,12 +41,12 @@ Here are some ideas to get you started:
 
 <ul>
 <li class="AHFaub"><a title="E = mc squared stated clearly" href="https://www.youtube.com/watch?v=ZDgNqb3_ajc">E = mc squared stated clearly</a> [<a title="E = mc squared stated clearly" href="https://github.com/manjunath5496/manjunath5496/blob/main/2.pdf">PDF</a>] </li>
- <li class="AHFaub"><a title="Why E = hυ?" href="https://www.youtube.com/watch?v=5FW3RcLtdaI">Why E = hυ?</a> [<a title="Why E = h&upsilon;?" href="https://github.com/manjunath5496/manjunath5496/blob/main/1.pdf">PDF</a>]</li>
-  <li class="AHFaub"><a title="5 Papers that shocked the world" href="https://www.youtube.com/watch?v=9ejCcy_xOsY">5 Papers that shocked the world</a> [<a title="Why E = h&upsilon;?" href="https://github.com/manjunath5496/manjunath5496/blob/main/3.pdf">PDF</a>]</li>
+ <li class="AHFaub"><a title="Why E = hυ?" href="https://www.youtube.com/watch?v=5FW3RcLtdaI">Why E = hυ?</a> [<a title="Why E = hυ?" href="https://github.com/manjunath5496/manjunath5496/blob/main/1.pdf">PDF</a>]</li>
+  <li class="AHFaub"><a title="5 Papers that shocked the world" href="https://www.youtube.com/watch?v=9ejCcy_xOsY">5 Papers that shocked the world</a> [<a title="5 Papers that shocked the world" href="https://github.com/manjunath5496/manjunath5496/blob/main/3.pdf">PDF</a>]</li>
  
-   <li class="AHFaub"><a title="5 Equations that rule your world" href="https://www.youtube.com/watch?v=3YAd2pe6eGE">5 Equations that rule your world</a> [<a title="Why E = h&upsilon;?" href="https://github.com/manjunath5496/manjunath5496/blob/main/4.pdf">PDF</a>]</li>
+   <li class="AHFaub"><a title="5 Equations that rule your world" href="https://www.youtube.com/watch?v=3YAd2pe6eGE">5 Equations that rule your world</a> [<a title="5 Equations that rule your world" href="https://github.com/manjunath5496/manjunath5496/blob/main/4.pdf">PDF</a>]</li>
  
-<li class="AHFaub"><a title="Stephen Hawking: A brief history of genius − in pictures" href="https://www.youtube.com/watch?v=KW2IM-m9pNA">Stephen Hawking: A brief history of genius − in pictures</a> [<a title="Why E = h&upsilon;?" href="https://github.com/manjunath5496/manjunath5496/blob/main/5.pdf">PDF</a>]</li>
+<li class="AHFaub"><a title="Stephen Hawking: A brief history of genius − in pictures" href="https://www.youtube.com/watch?v=KW2IM-m9pNA">Stephen Hawking: A brief history of genius − in pictures</a> [<a title="Stephen Hawking: A brief history of genius − in pictures" href="https://github.com/manjunath5496/manjunath5496/blob/main/5.pdf">PDF</a>]</li>
  
  <li class="AHFaub"><a title="10 Great Biological Discoveries" href="https://www.youtube.com/watch?v=4CmS_LAUCWk">10 Great Biological Discoveries</a> [<a title="10 Great Biological Discoveries" href="https://github.com/manjunath5496/manjunath5496/blob/main/6.pdf">PDF</a>]</li>
  
