@@ -56,6 +56,10 @@ Here are some ideas to get you started:
  
    <li class="AHFaub"><a title="Top 12 Engineers Who Shaped World History" href="https://www.youtube.com/watch?v=DmA5dbb881Q">Top 12 Engineers Who Shaped World History</a> [<a title="Top 12 Engineers Who Shaped World History" href="https://github.com/manjunath5496/manjunath5496/blob/main/9.pdf">PDF</a>]</li>
     <li class="AHFaub"><a title="Top 10 Greatest Philosophers of All Time" href="https://www.youtube.com/watch?v=S4KPOSu9GDs">Top 10 Greatest Philosophers of All Time</a> [<a title="Top 10 Greatest Philosophers of All Time" href="https://github.com/manjunath5496/manjunath5496/blob/main/10.pdf">PDF</a>]</li>
+  <li class="AHFaub"><a title="Life Changing Scientific Discoveries" href="https://www.youtube.com/watch?v=VlmTpgQGtfs">Life Changing Scientific Discoveries</a> [<a title="Life Changing Scientific Discoveries" href="https://github.com/manjunath5496/manjunath5496/blob/main/10.pdf">PDF</a>]</li>
+ 
+ 
+ 
  </ul>
  
 
