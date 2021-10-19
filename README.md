@@ -58,6 +58,7 @@ Here are some ideas to get you started:
     <li class="AHFaub"><a title="Top 10 Greatest Philosophers of All Time" href="https://www.youtube.com/watch?v=S4KPOSu9GDs">Top 10 Greatest Philosophers of All Time</a> [<a title="Top 10 Greatest Philosophers of All Time" href="https://github.com/manjunath5496/manjunath5496/blob/main/10.pdf">PDF</a>]</li>
   <li class="AHFaub"><a title="Life Changing Scientific Discoveries" href="https://www.youtube.com/watch?v=VlmTpgQGtfs">Life Changing Scientific Discoveries</a> [<a title="Life Changing Scientific Discoveries" href="https://github.com/manjunath5496/manjunath5496/blob/main/10.pdf">PDF</a>]</li>
  
+  <li class="AHFaub"><a title="10 Nobel Prize Winners From India You Should Know" href="https://www.youtube.com/watch?v=EfrSEYAeT5Y">10 Nobel Prize Winners From India You Should Know</a> [<a title="10 Nobel Prize Winners From India You Should Know" href="https://github.com/manjunath5496/manjunath5496/blob/main/11.pdf">PDF</a>]</li>
  
  
  </ul>
