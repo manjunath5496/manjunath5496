@@ -62,6 +62,10 @@ Here are some ideas to get you started:
  
  <li class="AHFaub"><a title="Top 10 NASA Inventions You Use Everyday" href="https://www.youtube.com/watch?v=mlPOqYvlrkM">Top 10 NASA Inventions You Use Everyday</a> [<a title="Top 10 NASA Inventions You Use Everyday" href="https://github.com/manjunath5496/manjunath5496/blob/main/12.pdf">PDF</a>]</li>
  
+  
+ <li class="AHFaub"><a title="10 Greatest Minds who Committed Suicide" href="https://www.youtube.com/watch?v=athQOocQXuU">10 Greatest Minds who Committed Suicide</a> [<a title="10 Greatest Minds who Committed Suicide" href="https://github.com/manjunath5496/manjunath5496/blob/main/13.pdf">PDF</a>]</li>
+ 
+ 
  </ul>
  
 
