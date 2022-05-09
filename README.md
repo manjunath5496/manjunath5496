@@ -44,7 +44,7 @@ Calculations and Interpretations of The Fundamental Constants</a></li>
 <p><strong>Videos:</strong></p>
 
 <ul>
-<li class="AHFaub"><a title="E = mc squared stated clearly" href="https://www.youtube.com/watch?v=ZDgNqb3_ajc">E = mc squared stated clearly</a> [<a title="E = mc squared stated clearly" href="https://github.com/manjunath5496/manjunath5496/blob/main/2.pdf">PDF</a>] </li>
+<li class="AHFaub"><a title="E = mc squared stated clearly" href="https://www.youtube.com/watch?v=ZDgNqb3_ajc">The True Meaning of E=mc squared, Einstein's Most Famous Equation</a> [<a title="The True Meaning of E=mc squared, Einstein's Most Famous Equation" href="https://github.com/manjunath5496/manjunath5496/blob/main/2.pdf">PDF</a>] </li>
  <li class="AHFaub"><a title="Why E = hυ?" href="https://www.youtube.com/watch?v=5FW3RcLtdaI">Why E = hυ?</a> [<a title="Why E = hυ?" href="https://github.com/manjunath5496/manjunath5496/blob/main/1.pdf">PDF</a>]</li>
   <li class="AHFaub"><a title="5 Papers that shocked the world" href="https://www.youtube.com/watch?v=9ejCcy_xOsY">5 Papers that shocked the world</a> [<a title="5 Papers that shocked the world" href="https://github.com/manjunath5496/manjunath5496/blob/main/3.pdf">PDF</a>]</li>
  
